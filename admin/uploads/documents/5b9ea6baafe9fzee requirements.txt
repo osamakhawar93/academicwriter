@@ -1,0 +1,83 @@
+Account creation : 
+
+Address
+city wise categorized
+name
+Company type: 
+#
+
+-----------------------
+Inventory : ADD pRODUCTS
+
+item name : vermicille
+subitem i.e packing 400g
+category : raw material/own product
+item quantity : 5
+item unit : gattoo
+-------------------------
+
+Purchase Stock:
+
+company name
+
+item name : vermicille
+subitem i.e packing 400g
+category : raw material
+item quantity : 5
+item unit : gattoo
+
+invoice
+date
+
+debit
+----------------------------
+Sale Stock:
+
+company name / on desk customer
+
+item name : vermicille
+subitem i.e packing 400g
+category : raw material
+item quantity : 5
+item unit : gattoo
+
+1) On Cash    ( only for ondesk customer )
+
+2) On Account    ( only for Added Companies  )
+
+invoice
+date
+
+Credit
+
+---------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
